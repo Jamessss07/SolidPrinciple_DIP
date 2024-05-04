@@ -9,6 +9,4 @@ To adhere to the __Dependency Inversion Principle (DIP)__ and ensure flexibility
 # UML Class Diagram
 ![Blank diagram (1)](https://github.com/Route0702/SolidPrinciple_DIP/assets/103111416/d90b2d2f-5bae-4da2-b71c-69f222bcd88a)
 
-# Output
-![image](https://github.com/Route0702/SolidPrinciple_DIP/assets/103111416/ab3563cb-22d1-42ee-9cce-51de28415107)
 
