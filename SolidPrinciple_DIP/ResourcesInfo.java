@@ -3,5 +3,5 @@ package SolidPrinciple_DIP;
 public interface ResourcesInfo {
     public String getTitle();
     public String getResourceType();
-    public String borrowItem();  // Method now returns a String
+    public String borrowItem();  
 }
